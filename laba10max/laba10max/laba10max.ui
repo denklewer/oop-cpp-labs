@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>laba10maxClass</class>
+ <widget class="QMainWindow" name="laba10maxClass" >
+  <property name="objectName" >
+   <string notr="true">laba10maxClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>laba10max</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="laba10max.qrc"/>
+ </resources>
+ <connections/>
+</UI>

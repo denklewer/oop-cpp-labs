@@ -1,0 +1,21 @@
+// stdafx.h: включаемый файл дл€ стандартных системных включаемых файлов
+// или включаемых файлов дл€ конкретного проекта, которые часто используютс€, но
+// не часто измен€ютс€
+//
+
+#pragma once
+
+#include "targetver.h"
+
+#include <stdio.h>
+#include <tchar.h>
+#include <iostream> // Ёта - часть библиотеки STL (Standard Template Library)
+#include <conio.h>
+#include <string.h>
+#include <stdlib.h>
+
+
+
+
+
+// TODO: ”становите здесь ссылки на дополнительные заголовки, требующиес€ дл€ программы
